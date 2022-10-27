@@ -6,11 +6,7 @@
 
 ## 1. Update sesajen dulu
 ```
-apt install update
-```
-
-```
-apt install upgrade
+apt install update && apt install upgrade -y
 ```
 
 Install git kalau belum install
@@ -45,6 +41,7 @@ cd scroll-contract-deploy-demo
 - Install Foundry
 ```
 curl -L https://foundry.paradigm.xyz | bash
+source /root/.bashrc
 foundryup
 ```
 
