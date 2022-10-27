@@ -6,11 +6,7 @@
 
 ## 1. Update sesajen dulu
 ```
-apt install update
-```
-
-```
-apt install upgrade
+sudo apt update && sudo apt upgrade
 ```
 
 Install git kalau belum install
