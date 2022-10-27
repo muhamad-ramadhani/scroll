@@ -45,9 +45,6 @@ cd scroll-contract-deploy-demo
 - Install Foundry
 ```
 curl -L https://foundry.paradigm.xyz | bash
-```
-
-```
 foundryup
 ```
 
