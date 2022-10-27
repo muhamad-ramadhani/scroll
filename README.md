@@ -35,7 +35,7 @@ sudo apt install npm
 ![image](https://user-images.githubusercontent.com/72949170/198203659-e4d5eb6d-032a-4586-a091-2d6048551fb8.png)
 
 
-## Deploy Contract (Disini gw pake Foundry)
+## 3. Deploy Contract (Disini gw pake Foundry)
 - Clone repo
 ```
 git clone https://github.com/scroll-tech/scroll-contract-deploy-demo.git
