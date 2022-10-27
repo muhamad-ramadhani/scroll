@@ -72,3 +72,7 @@ forge create --rpc-url https://prealpha.scroll.io/l2 \
 
 
 ## Done
+
+
+## JANGAN LUPA JOIN TELEGRAM
+HTTPS://T.ME/PEMULUNGAIRDROPID
